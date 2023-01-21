@@ -4,9 +4,6 @@ import Iter "mo:base/Iter";
 import Option "mo:base/Option";
 import HashMap "mo:base/HashMap";
 import Principal "mo:base/Principal";
-//type L<T> = List.List<T>;
-//type B<T> = Buffer.Buffer<T>;
-
 actor {
 
     // 1. Write a function unique that takes a list l of type List and returns a new list with all duplicate elements removed.
